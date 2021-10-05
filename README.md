@@ -66,7 +66,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-  <a href="https://meetvportfolio.herokuapp.com/"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://meetvportfolio.herokuapp.com/"><img alt="Website" src="https://img.shields.io/badge/Website?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/meet-vardoriya-9aab711a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Meet%20Vaddoriya-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://www.instagram.com/mv_1249/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mv1249-blue?style=flat-square&logo=instagram"></a>
   
