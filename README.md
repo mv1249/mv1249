@@ -1,6 +1,6 @@
 
 
-### Hi there 👋
+
 
 <!--
 **mv1249/mv1249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hey there! I'm Meet</h2>
+<h2> Hey there! I'm Meet 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
