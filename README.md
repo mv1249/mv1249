@@ -1,74 +1,97 @@
+# CropRecommendationSystem 
 
-## Hey there! I'm Meet  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-![](https://komarev.com/ghpvc/?username=mv1249)
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at Anurag University.
-- 🌱 &nbsp; Learning more about Web Technologies and Data Science.
-- ✍️ &nbsp; Blog Writing as hobbies/side hustles.
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
+#### A simple machine learning based website which recommends best crop to grow, fertilizers to use for your crops
 
 
-- 💻 Languages : &nbsp;
-   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
- 
-- 🔧Tools And Technologies &nbsp;
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
-  <code><img height="30" src="https://numpy.org/images/logos/numpy.svg"></code>
-  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"></code>
-  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"></code>
-  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
-  <code><img height="30" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg"></code>
-  <code><img height="30" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
+# Motivation
+- Farming is one of the major sectors that influences a country’s economic growth. 
 
-- 🌐  Cloud Platforms &nbsp;
-  <code><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
-  <code><img height="30" src="https://image.flaticon.com/icons/png/512/873/873120.png"></code>
-  <code><img height="30" src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
- 
- 
- 
-- Others 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="30" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+- In country like India, majority of the population is dependent on agriculture for their livelihood. Many new technologies, such as Machine Learning and Deep Learning, are being implemented into agriculture so that it is easier for farmers to grow and maximize their
 
 
-<br/>
+# Data Source
+- [Crop recommendation dataset ](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) (custom built dataset)
+- [Fertilizer suggestion dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv) (custom built dataset)
+- [Disease detection dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
+
+
+# System Architecture
+
+![image](https://user-images.githubusercontent.com/64339539/166977903-c0f2f7ec-f3e9-4632-931d-5068b4ba50de.png)
 
 
 
+# Services
 
+- ### Crop Recommendation Service
 
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://github.com/mv1249/CropRecommendationSystem/issues/4)
 
-
-
-#### Libraries/Frameworks
-
-
-
-
-<a href="https://github.com/mv1249">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mv1249&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p>
-  <a href="https://meetvportfolio.herokuapp.com/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/meet-vardoriya-9aab711a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Meet%20Vaddoriya-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://www.instagram.com/mv_1249/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mv1249-blue?style=flat-square&logo=instagram"></a>
+  One can watch this issue inorder to view how the crop recommendation service performs, the user has to give a set of inputs which is in form of an HTML form, which by hitting
+  the submit button, the algorithm behind the scenes, predicts the best suitable crop/fruit and also recommends similar crops/fruits which can be sown.
   
-</p>
+- ### Yeild Prediction Service
+
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://github.com/mv1249/CropRecommendationSystem/issues/5)
+
+  One can watch this issue inorder to view how the yeild prediction service works, the user has to give a set of inputs which is in form of an HTML form, when the user submits
+  the form, the data entered is send to the algorithm behind the scene and it predicts the yeild for the crop.
+  
+- ### Weather Service
+
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://github.com/mv1249/CropRecommendationSystem/issues/6)
+
+  One can watch this issue inorder to view how the weather service works, the user has to enter the place where he is currently and the service will kind of forecast 
+  the weather for the next 4 days, the analytics is displayed in form of interactive charts and graphs, which the user can go through.
+  
+  
+- ### News Portal
+
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://github.com/mv1249/CropRecommendationSystem/issues/7)
+
+  One can watch this issue inorder to view the latest news which has been displayed with inhouse text-analytics, the text analytics has been made using the Named entity recognition, which helps in determining various entities in the text and would make the reading quite interactive.
+
+
+- ### Disease Prediction Service
+
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://github.com/mv1249/CropRecommendationSystem/issues/8)
+
+  One can watch this issue inorder to predict whether a plant is diesased or healthy,the user can upload the image of the plant, and the service will process the image and will return whether the given image was infected by a disease or not and also it will give fertilizer suggestions,so as to cure the plant.
+  
+- ### Market
+
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://github.com/mv1249/CropRecommendationSystem/issues/9)
+
+  One can watch this issue inorder to view the latest fertilizers and farming materials which are currently om trend in the farming market, one can click on the products and can view its details as mentioned in the respective web page.
+  
+
+
+
+
+
+  
+
+# Built with
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://github.com/tomchen/stack-icons/raw/master/logos/bootstrap.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg"></code>
+<code><img height="30" src="https://matplotlib.org/_static/logo2.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/pytorch/pytorch/39fa0b5d0a3b966a50dcd90b26e6c36942705d6d/docs/source/_static/img/pytorch-logo-dark.svg"></code>
+
+## DEPLOYMENT
+
+#### This website is deployed at [Heroku](https://www.heroku.com/)
+#### You can access it [here](https://agrieasy.herokuapp.com/)
+#### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
+
 
