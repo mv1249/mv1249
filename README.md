@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hey there! I'm Meet 👋</h2>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mv1249&label=Profile%20views&color=blueviolet&style=flat" alt="meetdoshi90" /> </p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
